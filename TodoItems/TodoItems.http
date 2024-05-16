@@ -1,0 +1,6 @@
+@TodoItems_HostAddress = http://localhost:5267
+
+GET {{TodoItems_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
