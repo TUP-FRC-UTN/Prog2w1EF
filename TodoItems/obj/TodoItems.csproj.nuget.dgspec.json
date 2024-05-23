@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\source\\repos\\TodoItems\\TodoItems.csproj": {}
+    "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\TodoItems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\source\\repos\\TodoItems\\TodoItems.csproj": {
+    "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\TodoItems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\TodoItems\\TodoItems.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\TodoItems.csproj",
         "projectName": "TodoItems",
-        "projectPath": "C:\\Users\\fabio\\source\\repos\\TodoItems\\TodoItems.csproj",
+        "projectPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\TodoItems.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\source\\repos\\TodoItems\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,6 +81,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -89,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

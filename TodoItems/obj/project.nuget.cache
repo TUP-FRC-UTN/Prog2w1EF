@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9CoQSUlkdCp2kRL7HzmRG0c3oTYcGwepEDpDvORlJR5y9qAOyjXKP97M3LLyAQCK5QrNoj553eTVyQL9Yl3qQ==",
+  "dgSpecHash": "uKLG75yqSieFFI8H5pmG7RNp+VreKjNCIe/k4ZkDp/3zJgC90ed/1ZsUZ6tAQ8zDUJfK4GNCjWcGyUh7WFLJDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\TodoItems\\TodoItems.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\OneDrive\\Escritorio\\ProyectoDeClase\\Prog2w1EF\\TodoItems\\TodoItems.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -85,7 +85,11 @@
     "C:\\Users\\fabio\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\fabio\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\fabio\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
